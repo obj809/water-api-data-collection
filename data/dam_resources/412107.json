@@ -1,0 +1,124 @@
+{
+  "dam_id": "412107",
+  "dam_name": "Lake Cargelligo",
+  "start_date": "2025-02-04",
+  "end_date": "2026-02-04",
+  "resources": {
+    "dams": [
+      {
+        "dam_id": "412107",
+        "dam_name": "Lake Cargelligo",
+        "resources": [
+          {
+            "date": "2026-02-01",
+            "storage_volume": 13693,
+            "percentage_full": 45.4,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2026-01-01",
+            "storage_volume": 14318,
+            "percentage_full": 47.47,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-12-01",
+            "storage_volume": 20283,
+            "percentage_full": 67.24,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-11-01",
+            "storage_volume": 16405,
+            "percentage_full": 54.39,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-10-01",
+            "storage_volume": 15205,
+            "percentage_full": 50.41,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-09-01",
+            "storage_volume": 15426,
+            "percentage_full": 51.14,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-08-01",
+            "storage_volume": 15205,
+            "percentage_full": 50.41,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-07-01",
+            "storage_volume": 15889,
+            "percentage_full": 52.68,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-06-01",
+            "storage_volume": 16583,
+            "percentage_full": 54.98,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-05-01",
+            "storage_volume": 20920,
+            "percentage_full": 69.36,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-04-01",
+            "storage_volume": 25755,
+            "percentage_full": 85.39,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-03-01",
+            "storage_volume": 29241,
+            "percentage_full": 96.94,
+            "storage_inflow": 0,
+            "storage_release": 0
+          },
+          {
+            "date": "2025-02-01",
+            "storage_volume": 27413,
+            "percentage_full": 90.88,
+            "storage_inflow": 0,
+            "storage_release": 0
+          }
+        ],
+        "_links": [
+          {
+            "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412107",
+            "rel": "up",
+            "method": "GET"
+          },
+          {
+            "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412107/resources",
+            "rel": "self",
+            "method": "GET"
+          },
+          {
+            "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412107/resources/latest",
+            "rel": "related",
+            "method": "GET"
+          }
+        ]
+      }
+    ]
+  }
+}

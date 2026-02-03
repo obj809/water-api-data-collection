@@ -16,10 +16,22 @@ pip install requests python-dotenv
 
 pip freeze > requirements.txt
 
-## run fetch_token.py
+## fetch OAuth token (run first)
 
-python fetch_token.py
+python api_calls/fetch_token.py
 
-## run api_call.py
+## fetch dams list
 
-python api_call.py
+python api_calls/fetch_dams.py
+
+## fetch individual dam details
+
+python api_calls/fetch_dam_details.py
+
+## fetch dam resources (last year)
+
+python api_calls/fetch_dam_resources.py
+
+## fetch latest dam resources
+
+python api_calls/fetch_dam_resources_latest.py

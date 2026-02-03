@@ -1,0 +1,1082 @@
+[
+  {
+    "dam_id": "203042",
+    "dam_name": "Toonumbar Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 10986,
+        "percentage_full": 101.59,
+        "storage_inflow": 92,
+        "storage_release": 66
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/203042",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/203042/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/203042/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "210097",
+    "dam_name": "Glenbawn Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 734892,
+        "percentage_full": 98.14,
+        "storage_inflow": -273,
+        "storage_release": 756
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210097",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210097/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210097/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "210102",
+    "dam_name": "Lostock Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 18003,
+        "percentage_full": 91.22,
+        "storage_inflow": 174,
+        "storage_release": 110
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210102",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210102/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210102/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "210117",
+    "dam_name": "Glennies Creek Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 270158,
+        "percentage_full": 95.7,
+        "storage_inflow": 120,
+        "storage_release": 90
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210117",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210117/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210117/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "212205",
+    "dam_name": "Nepean Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 67412,
+        "percentage_full": 99.53,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212205",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212205/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212205/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "212211",
+    "dam_name": "Avon Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 141293,
+        "percentage_full": 99.34,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212211",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212211/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212211/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "212212",
+    "dam_name": "Wingecarribee Reservoir",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 23605,
+        "percentage_full": 79,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212212",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212212/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212212/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "212220",
+    "dam_name": "Cordeaux Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 93577,
+        "percentage_full": 99.77,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212220",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212220/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212220/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "212232",
+    "dam_name": "Cataract Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 95158,
+        "percentage_full": 97.91,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212232",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212232/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212232/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "212243",
+    "dam_name": "Warragamba Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 1940191,
+        "percentage_full": 93.97,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212243",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212243/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/212243/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "213210",
+    "dam_name": "Woronora Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 66791,
+        "percentage_full": 96.05,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/213210",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/213210/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/213210/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "213240",
+    "dam_name": "Prospect Reservoir",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 29010,
+        "percentage_full": 87.04,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/213240",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/213240/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/213240/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "215212",
+    "dam_name": "Tallowa Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 7360,
+        "percentage_full": 98.13,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/215212",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/215212/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/215212/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "215235",
+    "dam_name": "Fitzroy Falls Reservoir",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 8178,
+        "percentage_full": 82.19,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/215235",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/215235/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/215235/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "219027",
+    "dam_name": "Brogo Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 8827,
+        "percentage_full": 100.47,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/219027",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/219027/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/219027/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "219033",
+    "dam_name": "Cochrane Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 2284,
+        "percentage_full": 84.59,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/219033",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/219033/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/219033/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "410102",
+    "dam_name": "Blowering Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 334328,
+        "percentage_full": 20.84,
+        "storage_inflow": 5928.8002,
+        "storage_release": 16101
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/410102",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/410102/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/410102/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "410131",
+    "dam_name": "Burrinjuck Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 398721,
+        "percentage_full": 38.91,
+        "storage_inflow": 162,
+        "storage_release": 6559
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/410131",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/410131/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/410131/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "412010",
+    "dam_name": "Lake Wyangala",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 883264,
+        "percentage_full": 72.58,
+        "storage_inflow": -7605,
+        "storage_release": 9987
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412010",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412010/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412010/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "412106",
+    "dam_name": "Carcoar Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 32765,
+        "percentage_full": 91.22,
+        "storage_inflow": -198,
+        "storage_release": 296
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412106",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412106/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412106/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "412107",
+    "dam_name": "Lake Cargelligo",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 13693,
+        "percentage_full": 45.4,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412107",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412107/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412107/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "412108",
+    "dam_name": "Lake Brewster",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 0,
+        "percentage_full": null,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412108",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412108/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/412108/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "416030",
+    "dam_name": "Pindari Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 150614,
+        "percentage_full": 48.35,
+        "storage_inflow": 285.5,
+        "storage_release": 4470
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/416030",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/416030/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/416030/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "418035",
+    "dam_name": "Copeton Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 899841,
+        "percentage_full": 66.88,
+        "storage_inflow": -253.5,
+        "storage_release": 12524
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/418035",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/418035/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/418035/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "419041",
+    "dam_name": "Keepit Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 303459,
+        "percentage_full": 72.43,
+        "storage_inflow": -135.7,
+        "storage_release": 8120
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419041",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419041/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419041/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "419069",
+    "dam_name": "Chaffey Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 96516,
+        "percentage_full": 96.03,
+        "storage_inflow": -47.6,
+        "storage_release": 319
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419069",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419069/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419069/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "419080",
+    "dam_name": "Split Rock Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 384131,
+        "percentage_full": 97.53,
+        "storage_inflow": -228.2,
+        "storage_release": 264
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419080",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419080/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/419080/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "421078",
+    "dam_name": "Burrendong Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 405106,
+        "percentage_full": 35.1,
+        "storage_inflow": -432,
+        "storage_release": 16720
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421078",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421078/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421078/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "421148",
+    "dam_name": "Windamere Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 316569,
+        "percentage_full": 86.26,
+        "storage_inflow": 67.4,
+        "storage_release": 330
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421148",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421148/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421148/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "421189",
+    "dam_name": "Oberon Dam",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 41922,
+        "percentage_full": 93.16,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421189",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421189/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/421189/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "425022",
+    "dam_name": "Lake Menindee",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 168642,
+        "percentage_full": 26.79,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425022",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425022/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425022/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "425023",
+    "dam_name": "Lake Cawndilla",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 293557,
+        "percentage_full": 46.52,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425023",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425023/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425023/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "425046",
+    "dam_name": "Lake Wetherell",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 38255,
+        "percentage_full": 33.05,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425046",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425046/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425046/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "425047",
+    "dam_name": "Lake Tandure",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 45978,
+        "percentage_full": 59.39,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425047",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425047/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/425047/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "42510036",
+    "dam_name": "Lake Pamamaroo",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 222186,
+        "percentage_full": 82.29,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/42510036",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/42510036/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/42510036/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  },
+  {
+    "dam_id": "42510037",
+    "dam_name": "Lake Copi Hollow",
+    "resources": [
+      {
+        "date": "2026-02-01",
+        "storage_volume": 5473,
+        "percentage_full": 70.81,
+        "storage_inflow": 0,
+        "storage_release": 0
+      }
+    ],
+    "_links": [
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/42510037",
+        "rel": "up",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/42510037/resources/latest",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/42510037/resources",
+        "rel": "related",
+        "method": "GET"
+      }
+    ]
+  }
+]

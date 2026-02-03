@@ -1,0 +1,124 @@
+{
+  "dam_id": "210102",
+  "dam_name": "Lostock Dam",
+  "start_date": "2025-02-04",
+  "end_date": "2026-02-04",
+  "resources": {
+    "dams": [
+      {
+        "dam_id": "210102",
+        "dam_name": "Lostock Dam",
+        "resources": [
+          {
+            "date": "2026-02-01",
+            "storage_volume": 18003,
+            "percentage_full": 91.22,
+            "storage_inflow": 174,
+            "storage_release": 110
+          },
+          {
+            "date": "2026-01-01",
+            "storage_volume": 17919,
+            "percentage_full": 90.79,
+            "storage_inflow": 550,
+            "storage_release": 1083
+          },
+          {
+            "date": "2025-12-01",
+            "storage_volume": 18504,
+            "percentage_full": 93.76,
+            "storage_inflow": 370,
+            "storage_release": 1240
+          },
+          {
+            "date": "2025-11-01",
+            "storage_volume": 19306,
+            "percentage_full": 97.82,
+            "storage_inflow": 467,
+            "storage_release": 954
+          },
+          {
+            "date": "2025-10-01",
+            "storage_volume": 19755,
+            "percentage_full": 100.1,
+            "storage_inflow": 907,
+            "storage_release": 897
+          },
+          {
+            "date": "2025-09-01",
+            "storage_volume": 19770,
+            "percentage_full": 100.17,
+            "storage_inflow": 5033,
+            "storage_release": 5140
+          },
+          {
+            "date": "2025-08-01",
+            "storage_volume": 19843,
+            "percentage_full": 100.54,
+            "storage_inflow": 62149,
+            "storage_release": 62259
+          },
+          {
+            "date": "2025-07-01",
+            "storage_volume": 19883,
+            "percentage_full": 100.74,
+            "storage_inflow": 16710,
+            "storage_release": 16717
+          },
+          {
+            "date": "2025-06-01",
+            "storage_volume": 19839,
+            "percentage_full": 100.52,
+            "storage_inflow": 17176,
+            "storage_release": 17542
+          },
+          {
+            "date": "2025-05-01",
+            "storage_volume": 20110,
+            "percentage_full": 101.9,
+            "storage_inflow": 130995,
+            "storage_release": 131716
+          },
+          {
+            "date": "2025-04-01",
+            "storage_volume": 20311,
+            "percentage_full": 102.91,
+            "storage_inflow": 25351,
+            "storage_release": 25105
+          },
+          {
+            "date": "2025-03-01",
+            "storage_volume": 20249,
+            "percentage_full": 102.6,
+            "storage_inflow": 62621,
+            "storage_release": 62116
+          },
+          {
+            "date": "2025-02-01",
+            "storage_volume": 19773,
+            "percentage_full": 100.19,
+            "storage_inflow": 5446,
+            "storage_release": 5578
+          }
+        ],
+        "_links": [
+          {
+            "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210102",
+            "rel": "up",
+            "method": "GET"
+          },
+          {
+            "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210102/resources",
+            "rel": "self",
+            "method": "GET"
+          },
+          {
+            "href": "https://api.onegov.nsw.gov.au/waternsw-waterinsights/v1/dams/210102/resources/latest",
+            "rel": "related",
+            "method": "GET"
+          }
+        ]
+      }
+    ]
+  }
+}
