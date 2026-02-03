@@ -1,0 +1,8 @@
+# .gitignore
+
+.env
+venv
+response.json
+oauth_token.json
+CLAUDE.md
+prompt.md
