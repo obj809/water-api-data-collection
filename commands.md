@@ -35,3 +35,7 @@ python api_calls/fetch_dam_resources.py
 ## fetch latest dam resources
 
 python api_calls/fetch_dam_resources_latest.py
+
+## check date range
+
+python api_calls/check_history_depth.py
