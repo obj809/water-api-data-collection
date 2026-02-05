@@ -1,0 +1,947 @@
+{
+  "dam_id": "412106",
+  "dam_name": "Carcoar Dam",
+  "start_date": "2015-01-01",
+  "end_date": "2026-02-05",
+  "record_count": 134,
+  "resources": [
+    {
+      "date": "2026-02-01",
+      "storage_volume": 32729,
+      "percentage_full": 91.12,
+      "storage_inflow": -183,
+      "storage_release": 370
+    },
+    {
+      "date": "2026-01-01",
+      "storage_volume": 33205,
+      "percentage_full": 92.45,
+      "storage_inflow": -623,
+      "storage_release": 1246.6
+    },
+    {
+      "date": "2025-12-01",
+      "storage_volume": 35099,
+      "percentage_full": 97.72,
+      "storage_inflow": -273,
+      "storage_release": 112
+    },
+    {
+      "date": "2025-11-01",
+      "storage_volume": 35466,
+      "percentage_full": 98.74,
+      "storage_inflow": -70,
+      "storage_release": 144
+    },
+    {
+      "date": "2025-10-01",
+      "storage_volume": 35679,
+      "percentage_full": 99.34,
+      "storage_inflow": -13,
+      "storage_release": 133
+    },
+    {
+      "date": "2025-09-01",
+      "storage_volume": 35862,
+      "percentage_full": 99.85,
+      "storage_inflow": 868,
+      "storage_release": 264
+    },
+    {
+      "date": "2025-08-01",
+      "storage_volume": 35216,
+      "percentage_full": 98.05,
+      "storage_inflow": 583.2,
+      "storage_release": 58
+    },
+    {
+      "date": "2025-07-01",
+      "storage_volume": 34739,
+      "percentage_full": 96.72,
+      "storage_inflow": 1270,
+      "storage_release": 60
+    },
+    {
+      "date": "2025-06-01",
+      "storage_volume": 33520,
+      "percentage_full": 93.33,
+      "storage_inflow": 577,
+      "storage_release": 60
+    },
+    {
+      "date": "2025-05-01",
+      "storage_volume": 33094,
+      "percentage_full": 92.14,
+      "storage_inflow": 134,
+      "storage_release": 62
+    },
+    {
+      "date": "2025-04-01",
+      "storage_volume": 33021,
+      "percentage_full": 91.94,
+      "storage_inflow": -104.9,
+      "storage_release": 358
+    },
+    {
+      "date": "2025-03-01",
+      "storage_volume": 33538,
+      "percentage_full": 93.38,
+      "storage_inflow": -501,
+      "storage_release": 435
+    },
+    {
+      "date": "2025-02-01",
+      "storage_volume": 34482,
+      "percentage_full": 96,
+      "storage_inflow": -51.4,
+      "storage_release": 406.6
+    },
+    {
+      "date": "2025-01-01",
+      "storage_volume": 34944,
+      "percentage_full": 97.29,
+      "storage_inflow": -273.6,
+      "storage_release": 269.2
+    },
+    {
+      "date": "2024-12-01",
+      "storage_volume": 35447,
+      "percentage_full": 98.69,
+      "storage_inflow": 1648.3,
+      "storage_release": 893.3
+    },
+    {
+      "date": "2024-11-01",
+      "storage_volume": 35640,
+      "percentage_full": 99.23,
+      "storage_inflow": 10,
+      "storage_release": 112.1
+    },
+    {
+      "date": "2024-10-01",
+      "storage_volume": 35815,
+      "percentage_full": 99.72,
+      "storage_inflow": 257,
+      "storage_release": 305
+    },
+    {
+      "date": "2024-09-01",
+      "storage_volume": 35870,
+      "percentage_full": 99.87,
+      "storage_inflow": 97,
+      "storage_release": 249
+    },
+    {
+      "date": "2024-08-01",
+      "storage_volume": 35933,
+      "percentage_full": 100.04,
+      "storage_inflow": 1135,
+      "storage_release": 1566
+    },
+    {
+      "date": "2024-07-01",
+      "storage_volume": 35987,
+      "percentage_full": 100.19,
+      "storage_inflow": 2686,
+      "storage_release": 2938
+    },
+    {
+      "date": "2024-06-01",
+      "storage_volume": 35991,
+      "percentage_full": 100.21,
+      "storage_inflow": 1537,
+      "storage_release": 1294
+    },
+    {
+      "date": "2024-05-01",
+      "storage_volume": 35718,
+      "percentage_full": 99.45,
+      "storage_inflow": 98,
+      "storage_release": 111
+    },
+    {
+      "date": "2024-04-01",
+      "storage_volume": 35757,
+      "percentage_full": 99.55,
+      "storage_inflow": 602,
+      "storage_release": 144.9
+    },
+    {
+      "date": "2024-03-01",
+      "storage_volume": 35293,
+      "percentage_full": 98.26,
+      "storage_inflow": -349,
+      "storage_release": 65
+    },
+    {
+      "date": "2024-02-01",
+      "storage_volume": 35718,
+      "percentage_full": 99.45,
+      "storage_inflow": 538,
+      "storage_release": 59
+    },
+    {
+      "date": "2024-01-01",
+      "storage_volume": 35239,
+      "percentage_full": 98.11,
+      "storage_inflow": -219,
+      "storage_release": 67
+    },
+    {
+      "date": "2023-12-01",
+      "storage_volume": 35524,
+      "percentage_full": 98.91,
+      "storage_inflow": -2,
+      "storage_release": 66
+    },
+    {
+      "date": "2023-11-01",
+      "storage_volume": 35683,
+      "percentage_full": 99.35,
+      "storage_inflow": 139,
+      "storage_release": 71
+    },
+    {
+      "date": "2023-10-01",
+      "storage_volume": 35582,
+      "percentage_full": 99.07,
+      "storage_inflow": -213,
+      "storage_release": 61
+    },
+    {
+      "date": "2023-09-01",
+      "storage_volume": 35815,
+      "percentage_full": 99.72,
+      "storage_inflow": 295,
+      "storage_release": 437
+    },
+    {
+      "date": "2023-08-01",
+      "storage_volume": 35940,
+      "percentage_full": 100.06,
+      "storage_inflow": 693,
+      "storage_release": 811
+    },
+    {
+      "date": "2023-07-01",
+      "storage_volume": 35921,
+      "percentage_full": 100.01,
+      "storage_inflow": 1315,
+      "storage_release": 1309
+    },
+    {
+      "date": "2023-06-01",
+      "storage_volume": 35952,
+      "percentage_full": 100.1,
+      "storage_inflow": 383,
+      "storage_release": 501
+    },
+    {
+      "date": "2023-05-01",
+      "storage_volume": 35905,
+      "percentage_full": 99.97,
+      "storage_inflow": 734,
+      "storage_release": 501
+    },
+    {
+      "date": "2023-04-01",
+      "storage_volume": 35679.229,
+      "percentage_full": 99.34,
+      "storage_inflow": 325,
+      "storage_release": 93.3
+    },
+    {
+      "date": "2023-03-01",
+      "storage_volume": 35408.289,
+      "percentage_full": 98.58,
+      "storage_inflow": 247,
+      "storage_release": 192
+    },
+    {
+      "date": "2023-02-01",
+      "storage_volume": 35323.555,
+      "percentage_full": 98.35,
+      "storage_inflow": -146,
+      "storage_release": 77
+    },
+    {
+      "date": "2023-01-01",
+      "storage_volume": 35539.635,
+      "percentage_full": 98.95,
+      "storage_inflow": -23,
+      "storage_release": 102
+    },
+    {
+      "date": "2022-12-01",
+      "storage_volume": 35827.163,
+      "percentage_full": 99.75,
+      "storage_inflow": 426,
+      "storage_release": 683.4
+    },
+    {
+      "date": "2022-11-01",
+      "storage_volume": 35944.379,
+      "percentage_full": 100.08,
+      "storage_inflow": 23587.2,
+      "storage_release": 23792.1
+    },
+    {
+      "date": "2022-10-01",
+      "storage_volume": 35948.292,
+      "percentage_full": 100.09,
+      "storage_inflow": 4528,
+      "storage_release": 4918
+    },
+    {
+      "date": "2022-09-01",
+      "storage_volume": 36089.464,
+      "percentage_full": 100.48,
+      "storage_inflow": 6230,
+      "storage_release": 9048
+    },
+    {
+      "date": "2022-08-01",
+      "storage_volume": 36156.318,
+      "percentage_full": 100.67,
+      "storage_inflow": 7035,
+      "storage_release": 8470
+    },
+    {
+      "date": "2022-07-01",
+      "storage_volume": 35991.371,
+      "percentage_full": 100.21,
+      "storage_inflow": 1839,
+      "storage_release": 1869
+    },
+    {
+      "date": "2022-06-01",
+      "storage_volume": 35913.084,
+      "percentage_full": 99.99,
+      "storage_inflow": 1482,
+      "storage_release": 1610
+    },
+    {
+      "date": "2022-05-01",
+      "storage_volume": 35956.121,
+      "percentage_full": 100.11,
+      "storage_inflow": 730,
+      "storage_release": 418
+    },
+    {
+      "date": "2022-04-01",
+      "storage_volume": 35485.493,
+      "percentage_full": 98.8,
+      "storage_inflow": 234,
+      "storage_release": 4
+    },
+    {
+      "date": "2022-03-01",
+      "storage_volume": 35331.25,
+      "percentage_full": 98.37,
+      "storage_inflow": 0,
+      "storage_release": 0
+    },
+    {
+      "date": "2022-02-01",
+      "storage_volume": 35485.493,
+      "percentage_full": 98.8,
+      "storage_inflow": 0,
+      "storage_release": 0
+    },
+    {
+      "date": "2022-01-01",
+      "storage_volume": 35991.371,
+      "percentage_full": 100.21,
+      "storage_inflow": 0,
+      "storage_release": 0
+    },
+    {
+      "date": "2021-12-01",
+      "storage_volume": 35874.004,
+      "percentage_full": 99.88,
+      "storage_inflow": 0,
+      "storage_release": 0
+    },
+    {
+      "date": "2021-11-01",
+      "storage_volume": 36069.825,
+      "percentage_full": 100.43,
+      "storage_inflow": 6524,
+      "storage_release": 36
+    },
+    {
+      "date": "2021-10-01",
+      "storage_volume": 27651.597,
+      "percentage_full": 76.99,
+      "storage_inflow": 1982,
+      "storage_release": 61.1
+    },
+    {
+      "date": "2021-09-01",
+      "storage_volume": 25734.692,
+      "percentage_full": 71.65,
+      "storage_inflow": 2400,
+      "storage_release": 60
+    },
+    {
+      "date": "2021-08-01",
+      "storage_volume": 23440.745,
+      "percentage_full": 65.26,
+      "storage_inflow": 6590,
+      "storage_release": 60
+    },
+    {
+      "date": "2021-07-01",
+      "storage_volume": 16831.497,
+      "percentage_full": 46.86,
+      "storage_inflow": 4862,
+      "storage_release": 62
+    },
+    {
+      "date": "2021-06-01",
+      "storage_volume": 12039.97,
+      "percentage_full": 33.52,
+      "storage_inflow": 668,
+      "storage_release": 56.5
+    },
+    {
+      "date": "2021-05-01",
+      "storage_volume": 11340.978,
+      "percentage_full": 31.58,
+      "storage_inflow": 142,
+      "storage_release": 62
+    },
+    {
+      "date": "2021-04-01",
+      "storage_volume": 11256.432,
+      "percentage_full": 31.34,
+      "storage_inflow": -60,
+      "storage_release": 60
+    },
+    {
+      "date": "2021-03-01",
+      "storage_volume": 11374.968,
+      "percentage_full": 31.67,
+      "storage_inflow": 1097,
+      "storage_release": 309
+    },
+    {
+      "date": "2021-02-01",
+      "storage_volume": 10565.447,
+      "percentage_full": 29.42,
+      "storage_inflow": 250,
+      "storage_release": 138
+    },
+    {
+      "date": "2021-01-01",
+      "storage_volume": 10483.862,
+      "percentage_full": 29.19,
+      "storage_inflow": 35,
+      "storage_release": 953
+    },
+    {
+      "date": "2020-12-01",
+      "storage_volume": 11306.35,
+      "percentage_full": 31.48,
+      "storage_inflow": -132,
+      "storage_release": 65
+    },
+    {
+      "date": "2020-11-01",
+      "storage_volume": 11494.72,
+      "percentage_full": 32,
+      "storage_inflow": 120,
+      "storage_release": 63.7
+    },
+    {
+      "date": "2020-10-01",
+      "storage_volume": 11477.537,
+      "percentage_full": 31.96,
+      "storage_inflow": 572,
+      "storage_release": 62
+    },
+    {
+      "date": "2020-09-01",
+      "storage_volume": 10967.144,
+      "percentage_full": 30.53,
+      "storage_inflow": 11288,
+      "storage_release": 58
+    },
+    {
+      "date": "2020-08-01",
+      "storage_volume": 10435.88,
+      "percentage_full": 29.06,
+      "storage_inflow": 3680,
+      "storage_release": 90
+    },
+    {
+      "date": "2020-07-01",
+      "storage_volume": 6801.089,
+      "percentage_full": 18.94,
+      "storage_inflow": 962,
+      "storage_release": 62
+    },
+    {
+      "date": "2020-06-01",
+      "storage_volume": 5908.21,
+      "percentage_full": 16.45,
+      "storage_inflow": 550,
+      "storage_release": 60
+    },
+    {
+      "date": "2020-05-01",
+      "storage_volume": 5417.199,
+      "percentage_full": 15.08,
+      "storage_inflow": 499,
+      "storage_release": 57
+    },
+    {
+      "date": "2020-04-01",
+      "storage_volume": 4826,
+      "percentage_full": 13.44,
+      "storage_inflow": 408,
+      "storage_release": 54.1
+    },
+    {
+      "date": "2020-03-01",
+      "storage_volume": 4471.444,
+      "percentage_full": 12.45,
+      "storage_inflow": 120,
+      "storage_release": 49.9
+    },
+    {
+      "date": "2020-02-01",
+      "storage_volume": 4401.837,
+      "percentage_full": 12.26,
+      "storage_inflow": 101,
+      "storage_release": 142.3
+    },
+    {
+      "date": "2020-01-01",
+      "storage_volume": 4471.444,
+      "percentage_full": 12.45,
+      "storage_inflow": -31.5,
+      "storage_release": 270.2
+    },
+    {
+      "date": "2019-12-01",
+      "storage_volume": 4760.455,
+      "percentage_full": 13.25,
+      "storage_inflow": -198,
+      "storage_release": 1024.3
+    },
+    {
+      "date": "2019-11-01",
+      "storage_volume": 6043.506,
+      "percentage_full": 16.83,
+      "storage_inflow": -10.2,
+      "storage_release": 554.4
+    },
+    {
+      "date": "2019-10-01",
+      "storage_volume": 6638.013,
+      "percentage_full": 18.48,
+      "storage_inflow": 175.1,
+      "storage_release": 680.6
+    },
+    {
+      "date": "2019-09-01",
+      "storage_volume": 7438.854,
+      "percentage_full": 20.71,
+      "storage_inflow": 194.9,
+      "storage_release": 50.4
+    },
+    {
+      "date": "2019-08-01",
+      "storage_volume": 7349.817,
+      "percentage_full": 20.46,
+      "storage_inflow": 295.6,
+      "storage_release": 156
+    },
+    {
+      "date": "2019-07-01",
+      "storage_volume": 7249.319,
+      "percentage_full": 20.18,
+      "storage_inflow": 270,
+      "storage_release": 418.9
+    },
+    {
+      "date": "2019-06-01",
+      "storage_volume": 7503.089,
+      "percentage_full": 20.89,
+      "storage_inflow": 270.6,
+      "storage_release": 630.1
+    },
+    {
+      "date": "2019-05-01",
+      "storage_volume": 7965.502,
+      "percentage_full": 22.18,
+      "storage_inflow": 200.8,
+      "storage_release": 279
+    },
+    {
+      "date": "2019-04-01",
+      "storage_volume": 8085.222,
+      "percentage_full": 22.51,
+      "storage_inflow": 207.8,
+      "storage_release": 959.9
+    },
+    {
+      "date": "2019-03-01",
+      "storage_volume": 8982.544,
+      "percentage_full": 25.01,
+      "storage_inflow": 154.7,
+      "storage_release": 2009.7
+    },
+    {
+      "date": "2019-02-01",
+      "storage_volume": 11016.789,
+      "percentage_full": 30.67,
+      "storage_inflow": 72.4,
+      "storage_release": 1815.7
+    },
+    {
+      "date": "2019-01-01",
+      "storage_volume": 13114.615,
+      "percentage_full": 36.51,
+      "storage_inflow": 418.7,
+      "storage_release": 2004.3
+    },
+    {
+      "date": "2018-12-01",
+      "storage_volume": 14779.113,
+      "percentage_full": 41.15,
+      "storage_inflow": 523.2,
+      "storage_release": 1751.8
+    },
+    {
+      "date": "2018-11-01",
+      "storage_volume": 16098.649,
+      "percentage_full": 44.82,
+      "storage_inflow": 250.7,
+      "storage_release": 1699.3
+    },
+    {
+      "date": "2018-10-01",
+      "storage_volume": 17704.939,
+      "percentage_full": 49.29,
+      "storage_inflow": 183.6,
+      "storage_release": 1526.5
+    },
+    {
+      "date": "2018-09-01",
+      "storage_volume": 19121.858,
+      "percentage_full": 53.24,
+      "storage_inflow": 339.3,
+      "storage_release": 996.3
+    },
+    {
+      "date": "2018-08-01",
+      "storage_volume": 19892.299,
+      "percentage_full": 55.38,
+      "storage_inflow": 211.3,
+      "storage_release": 48.7
+    },
+    {
+      "date": "2018-07-01",
+      "storage_volume": 19693.173,
+      "percentage_full": 54.83,
+      "storage_inflow": 76.7,
+      "storage_release": 33.1
+    },
+    {
+      "date": "2018-06-01",
+      "storage_volume": 19693.173,
+      "percentage_full": 54.83,
+      "storage_inflow": 171.3,
+      "storage_release": 144
+    },
+    {
+      "date": "2018-05-01",
+      "storage_volume": 19545.111,
+      "percentage_full": 54.42,
+      "storage_inflow": 297.6,
+      "storage_release": 598
+    },
+    {
+      "date": "2018-04-01",
+      "storage_volume": 20042.938,
+      "percentage_full": 55.8,
+      "storage_inflow": 160.8,
+      "storage_release": 1768.9
+    },
+    {
+      "date": "2018-03-01",
+      "storage_volume": 21748.25,
+      "percentage_full": 60.55,
+      "storage_inflow": 177.7,
+      "storage_release": 2121.7
+    },
+    {
+      "date": "2018-02-01",
+      "storage_volume": 24019.942,
+      "percentage_full": 66.88,
+      "storage_inflow": 192.2,
+      "storage_release": 2660.1
+    },
+    {
+      "date": "2018-01-01",
+      "storage_volume": 26920.692,
+      "percentage_full": 74.95,
+      "storage_inflow": 438.1,
+      "storage_release": 2609.8
+    },
+    {
+      "date": "2017-12-01",
+      "storage_volume": 29525.416,
+      "percentage_full": 82.2,
+      "storage_inflow": 445.7,
+      "storage_release": 1623.7
+    },
+    {
+      "date": "2017-11-01",
+      "storage_volume": 31050.709,
+      "percentage_full": 86.45,
+      "storage_inflow": 303.5,
+      "storage_release": 1329
+    },
+    {
+      "date": "2017-10-01",
+      "storage_volume": 32475.55,
+      "percentage_full": 90.42,
+      "storage_inflow": 231,
+      "storage_release": 320.1
+    },
+    {
+      "date": "2017-09-01",
+      "storage_volume": 32728.973,
+      "percentage_full": 91.12,
+      "storage_inflow": 105.6,
+      "storage_release": 46.6
+    },
+    {
+      "date": "2017-08-01",
+      "storage_volume": 32728.973,
+      "percentage_full": 91.12,
+      "storage_inflow": 455.7,
+      "storage_release": 67
+    },
+    {
+      "date": "2017-07-01",
+      "storage_volume": 32367.531,
+      "percentage_full": 90.12,
+      "storage_inflow": 101.5,
+      "storage_release": 40.8
+    },
+    {
+      "date": "2017-06-01",
+      "storage_volume": 32403.498,
+      "percentage_full": 90.22,
+      "storage_inflow": 58.1,
+      "storage_release": 72.2
+    },
+    {
+      "date": "2017-05-01",
+      "storage_volume": 32511.635,
+      "percentage_full": 90.52,
+      "storage_inflow": 59.5,
+      "storage_release": 105.6
+    },
+    {
+      "date": "2017-04-01",
+      "storage_volume": 32656.369,
+      "percentage_full": 90.92,
+      "storage_inflow": 57.4,
+      "storage_release": 118.4
+    },
+    {
+      "date": "2017-03-01",
+      "storage_volume": 32801.736,
+      "percentage_full": 91.33,
+      "storage_inflow": 9.9,
+      "storage_release": 569.3
+    },
+    {
+      "date": "2017-02-01",
+      "storage_volume": 33315.547,
+      "percentage_full": 92.76,
+      "storage_inflow": 160.3,
+      "storage_release": 772.8
+    },
+    {
+      "date": "2017-01-01",
+      "storage_volume": 34788.962,
+      "percentage_full": 96.86,
+      "storage_inflow": 834.4,
+      "storage_release": 254.6
+    },
+    {
+      "date": "2016-12-01",
+      "storage_volume": 35524.157,
+      "percentage_full": 98.91,
+      "storage_inflow": 1102.7,
+      "storage_release": 617
+    },
+    {
+      "date": "2016-11-01",
+      "storage_volume": 35718.1,
+      "percentage_full": 99.45,
+      "storage_inflow": 2956.6,
+      "storage_release": 2398.3
+    },
+    {
+      "date": "2016-10-01",
+      "storage_volume": 35834.965,
+      "percentage_full": 99.77,
+      "storage_inflow": 20993.2,
+      "storage_release": 17440
+    },
+    {
+      "date": "2016-09-01",
+      "storage_volume": 35640.399,
+      "percentage_full": 99.23,
+      "storage_inflow": 20462,
+      "storage_release": 3342.2
+    },
+    {
+      "date": "2016-08-01",
+      "storage_volume": 18442.186,
+      "percentage_full": 51.35,
+      "storage_inflow": 5922,
+      "storage_release": 689
+    },
+    {
+      "date": "2016-07-01",
+      "storage_volume": 12577.648,
+      "percentage_full": 35.02,
+      "storage_inflow": 7172,
+      "storage_release": 2114.7
+    },
+    {
+      "date": "2016-06-01",
+      "storage_volume": 5466.969,
+      "percentage_full": 15.22,
+      "storage_inflow": 2701.6,
+      "storage_release": 1253.6
+    },
+    {
+      "date": "2016-05-01",
+      "storage_volume": 2820.608,
+      "percentage_full": 7.85,
+      "storage_inflow": 178.4,
+      "storage_release": 73.1
+    },
+    {
+      "date": "2016-04-01",
+      "storage_volume": 2735.854,
+      "percentage_full": 7.62,
+      "storage_inflow": 50.5,
+      "storage_release": 236.8
+    },
+    {
+      "date": "2016-03-01",
+      "storage_volume": 2984.482,
+      "percentage_full": 8.31,
+      "storage_inflow": 111.2,
+      "storage_release": 1045.4
+    },
+    {
+      "date": "2016-02-01",
+      "storage_volume": 3997.416,
+      "percentage_full": 11.13,
+      "storage_inflow": 225,
+      "storage_release": 857.4
+    },
+    {
+      "date": "2016-01-01",
+      "storage_volume": 4788.441,
+      "percentage_full": 13.33,
+      "storage_inflow": 19,
+      "storage_release": 921
+    },
+    {
+      "date": "2015-12-01",
+      "storage_volume": 5691.194,
+      "percentage_full": 15.85,
+      "storage_inflow": -164,
+      "storage_release": 1156
+    },
+    {
+      "date": "2015-11-01",
+      "storage_volume": 7003.836,
+      "percentage_full": 19.5,
+      "storage_inflow": 260,
+      "storage_release": 60
+    },
+    {
+      "date": "2015-10-01",
+      "storage_volume": 6789.314,
+      "percentage_full": 18.9,
+      "storage_inflow": 96,
+      "storage_release": 56
+    },
+    {
+      "date": "2015-09-01",
+      "storage_volume": 6730.733,
+      "percentage_full": 18.74,
+      "storage_inflow": 350,
+      "storage_release": 60
+    },
+    {
+      "date": "2015-08-01",
+      "storage_volume": 6433.863,
+      "percentage_full": 17.91,
+      "storage_inflow": 1410,
+      "storage_release": 62
+    },
+    {
+      "date": "2015-07-01",
+      "storage_volume": 5025.093,
+      "percentage_full": 13.99,
+      "storage_inflow": 952,
+      "storage_release": 62
+    },
+    {
+      "date": "2015-06-01",
+      "storage_volume": 4133.57,
+      "percentage_full": 11.51,
+      "storage_inflow": 140,
+      "storage_release": 58
+    },
+    {
+      "date": "2015-05-01",
+      "storage_volume": 4052.958,
+      "percentage_full": 11.28,
+      "storage_inflow": 160,
+      "storage_release": 60
+    },
+    {
+      "date": "2015-04-01",
+      "storage_volume": 3957.868,
+      "percentage_full": 11.02,
+      "storage_inflow": 231.6,
+      "storage_release": 247.6
+    },
+    {
+      "date": "2015-03-01",
+      "storage_volume": 3997.416,
+      "percentage_full": 11.13,
+      "storage_inflow": -110,
+      "storage_release": 1550
+    },
+    {
+      "date": "2015-02-01",
+      "storage_volume": 5660.108,
+      "percentage_full": 15.76,
+      "storage_inflow": -47,
+      "storage_release": 1724
+    },
+    {
+      "date": "2015-01-01",
+      "storage_volume": 7426.071,
+      "percentage_full": 20.68,
+      "storage_inflow": 55,
+      "storage_release": 1420
+    }
+  ]
+}

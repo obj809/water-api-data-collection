@@ -1,0 +1,9 @@
+{
+  "dam_id": "BlueMountainsTotal",
+  "dam_name": "Blue Mountains Dams",
+  "start_date": "2015-01-01",
+  "end_date": "2026-02-05",
+  "record_count": 0,
+  "resources": [],
+  "error": "HTTP 422"
+}
